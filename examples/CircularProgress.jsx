@@ -4,7 +4,7 @@ import Speedometer, {
   Indicator,
   Progress,
   Arc
-} from 'react-native-cool-Speedometer'
+} from 'react-native-cool-speedometer'
 
 const Circular = () => {
   const center = 250 / 2
